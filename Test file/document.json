@@ -1,0 +1,239 @@
+{
+  "_class": "document",
+  "assets": {
+    "_class": "assetCollection",
+    "colorAssets": [
+    ],
+    "colors": [
+    ],
+    "do_objectID": "34CBA744-DF18-48A6-9A5A-449712F22B95",
+    "exportPresets": [
+    ],
+    "gradientAssets": [
+    ],
+    "gradients": [
+    ],
+    "imageCollection": {
+      "_class": "imageCollection",
+      "images": {
+      }
+    },
+    "images": [
+    ]
+  },
+  "colorSpace": 0,
+  "do_objectID": "49bc7180-3775-11eb-9a26-83ea5343ef02",
+  "documentState": {
+    "_class": "documentState"
+  },
+  "fontReferences": [
+    {
+      "_class": "fontReference",
+      "do_objectID": "1538D283-4524-4868-8796-5305ACFA3840",
+      "fontFamilyName": "Montserrat",
+      "fontFileName": "Montserrat-ThinItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Montserrat-ThinItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "3D168628-A2D4-4449-86C0-8C2254D57E3A",
+      "fontFamilyName": "Montserrat",
+      "fontFileName": "Montserrat-Medium.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Montserrat-Medium"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "50BB6302-7A65-4784-82CD-1DB83ACE1ED0",
+      "fontFamilyName": "Montserrat",
+      "fontFileName": "Montserrat-BoldItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Montserrat-BoldItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "6865F44B-F069-43E9-915E-DD8051D1DA85",
+      "fontFamilyName": "Montserrat",
+      "fontFileName": "Montserrat-BlackItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Montserrat-BlackItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "6D0EFCBF-C158-4646-98ED-B39714B434C0",
+      "fontFamilyName": "Montserrat",
+      "fontFileName": "Montserrat-LightItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Montserrat-LightItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "6F543D0E-4FA0-47E2-B110-3C60AD2530FA",
+      "fontFamilyName": "Montserrat",
+      "fontFileName": "Montserrat-ExtraBoldItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Montserrat-ExtraBoldItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "702F9E44-3032-48B0-854F-78CC0B1477F8",
+      "fontFamilyName": "Montserrat",
+      "fontFileName": "Montserrat-Regular.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Montserrat-Regular"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "7235421A-CDD3-4835-9780-2FFA17833FE3",
+      "fontFamilyName": "Montserrat",
+      "fontFileName": "Montserrat-ExtraLight.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Montserrat-ExtraLight"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "789FF20D-6335-4024-BAA1-364AF4B48D26",
+      "fontFamilyName": "Montserrat",
+      "fontFileName": "Montserrat-MediumItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Montserrat-MediumItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "8BA3E154-D3A9-45FA-BF8A-9D1CCC5317B2",
+      "fontFamilyName": "Montserrat",
+      "fontFileName": "Montserrat-Bold.otf",
+      "options": 2,
+      "postscriptNames": [
+        "Montserrat-Bold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "A430E18A-BC8D-44F9-B59D-875A50D2C39E",
+      "fontFamilyName": "Montserrat",
+      "fontFileName": ".37464.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Montserrat-SemiBold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "C193AB7B-244A-4B1E-AB78-7B7CBB03EEEC",
+      "fontFamilyName": "Montserrat",
+      "fontFileName": "Montserrat-Italic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Montserrat-Italic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "CF03D204-0F2B-4E83-856C-19E92668D651",
+      "fontFamilyName": "Montserrat",
+      "fontFileName": "Montserrat-ExtraLightItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Montserrat-ExtraLightItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "D6415072-5B68-42A0-9A24-65E506AC1A20",
+      "fontFamilyName": "Montserrat",
+      "fontFileName": ".37470.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Montserrat-Black"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "DE5BB964-109E-4F91-A8E8-AEA3FD75869C",
+      "fontFamilyName": "Montserrat",
+      "fontFileName": "Montserrat-Thin.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Montserrat-Thin"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "E782F9B1-8B12-4C84-A814-85ADBA6B9C6A",
+      "fontFamilyName": "Montserrat",
+      "fontFileName": "Montserrat-ExtraBold.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Montserrat-ExtraBold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "EC8C4F71-0B2F-4F2B-A770-A31236F8D7C3",
+      "fontFamilyName": "Montserrat",
+      "fontFileName": "Montserrat-SemiBoldItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Montserrat-SemiBoldItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "FE454503-F099-4D1A-9694-0638AF094151",
+      "fontFamilyName": "Montserrat",
+      "fontFileName": "Montserrat-Light.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Montserrat-Light"
+      ]
+    }
+  ],
+  "foreignLayerStyles": [
+  ],
+  "foreignSwatches": [
+  ],
+  "foreignSymbols": [
+  ],
+  "foreignTextStyles": [
+  ],
+  "layerSymbols": {
+    "_class": "symbolContainer",
+    "do_objectID": "668054AE-356E-11EB-9A26-88E85362966F",
+    "objects": [
+    ]
+  },
+  "meta": {
+    "appVersion": "70",
+    "build": 108797,
+    "version": 134
+  },
+  "pages": [
+    "Page 1"
+  ],
+  "sharedSwatches": {
+    "_class": "swatchContainer",
+    "do_objectID": "708C50AE-356E-11EB-9A26-88E853629863",
+    "objects": [
+    ]
+  }
+}
