@@ -1,0 +1,102 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "BC769FA4-149E-4BA2-B954-9FF539470048",
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 138,
+    "width": 52,
+    "x": 382,
+    "y": 58
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "13168802-DBB0-4CBA-899F-444405A8F26C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3DFDB737-DE87-41AE-901A-ACED6D85048E"
+    },
+    {
+      "class": "shapePath",
+      "id": "619420CD-3E4B-442B-8C71-8F934113D2E0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "21A6BF5C-139B-4657-81EF-265C0B4AFA95"
+    },
+    {
+      "class": "rectangle",
+      "id": "9D2298EA-1FFD-440F-8C11-4D51DF43217B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "82DB2C86-899C-4CF3-991F-851EAA1109B3"
+    }
+  ],
+  "name": "Group",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 7.2,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 0.4945870535714286
+    },
+    "do_objectID": "7820AE6D-F0BC-4DBA-AC6B-F514E29C3BB0",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "_class": "page",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "4CE00EB5-FE8B-4350-8891-8AD5BF8A9CA6",
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -483,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "D716F416-595A-4EF3-9568-1F78A1B4DD83"
+    },
+    {
+      "class": "artboard",
+      "id": "16496AF9-D748-44F2-8788-B9F1EF9A5D2B"
+    },
+    {
+      "class": "artboard",
+      "id": "880140ED-20B9-4965-9BFD-C01D16D04179"
+    },
+    {
+      "class": "artboard",
+      "id": "2E3FC847-023A-46D2-A912-20A81A6E0C28"
+    },
+    {
+      "class": "artboard",
+      "id": "308A3D49-452D-464C-9EB3-77A12588625F"
+    },
+    {
+      "class": "artboard",
+      "id": "B8CC8954-6BB0-4099-B063-2F310870FBE8"
+    },
+    {
+      "class": "artboard",
+      "id": "85CCFB60-E38F-4BBB-BB48-0760FCDD0236"
+    },
+    {
+      "class": "artboard",
+      "id": "9145DB49-E891-4D5F-B793-F88F746C6E17"
+    },
+    {
+      "class": "artboard",
+      "id": "9C6EC9D9-BB7D-4D2D-8531-883E1BDFE4B8"
+    },
+    {
+      "class": "artboard",
+      "id": "4BBC8991-AB30-495D-AFBB-8C14C97E7928"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 60,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 21.81818181818182,
+    "guttersOutside": false,
+    "horizontalOffset": 240,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 960
+  },
+  "name": "Final",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "com.animaapp.uses.anima": 1
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -378,
+    "guides": [
+    ]
+  }
+}

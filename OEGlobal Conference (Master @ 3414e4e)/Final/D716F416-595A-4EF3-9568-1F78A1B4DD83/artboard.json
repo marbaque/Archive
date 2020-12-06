@@ -1,0 +1,160 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D716F416-595A-4EF3-9568-1F78A1B4DD83",
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 4548,
+    "width": 1024,
+    "x": -4893,
+    "y": 210
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 8,
+    "isEnabled": false,
+    "thickGridTimes": 8
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      48,
+      512,
+      496,
+      528,
+      976,
+      896,
+      128
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "7DBA63D4-306F-484C-9B25-61A0B0B86B2A"
+    },
+    {
+      "class": "group",
+      "id": "CA40847F-B0A9-4E5E-9D9B-092B75B11100"
+    },
+    {
+      "class": "group",
+      "id": "576D87CB-C528-4E10-B4EC-BA6CC727F0FF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "480AD893-ED23-4684-B5FC-DFE162201BA3"
+    },
+    {
+      "class": "group",
+      "id": "59080626-A4D9-45EA-AF84-8F8CE32ECB18"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "940C5CF1-D839-41E1-BABA-1A8EE3E9A0C1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D728D657-5431-489E-BCC3-707EAA037DD2"
+    },
+    {
+      "class": "group",
+      "id": "F420A969-3977-4FB0-8B27-AD38E0995AD6"
+    },
+    {
+      "class": "group",
+      "id": "E583C5F5-2262-4CA2-B448-F9810185A2B6"
+    },
+    {
+      "class": "group",
+      "id": "F7142C4D-99EC-4BD5-BFA1-B73D10EEC3DD"
+    },
+    {
+      "class": "group",
+      "id": "777389D4-8A86-48FC-8462-D9F7937A4D36"
+    },
+    {
+      "class": "group",
+      "id": "645EE77A-11D6-4913-B248-205836B0E2D1"
+    },
+    {
+      "class": "group",
+      "id": "6900D744-6399-4BE1-A588-321BBC646238"
+    },
+    {
+      "class": "group",
+      "id": "9AB2747F-9BFA-4D5F-A529-2ABE931131EA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "88BC58A1-4DBF-49B3-8D75-AC4DE13719BA"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 48,
+    "drawHorizontal": true,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 8,
+    "gutterWidth": 32,
+    "guttersOutside": true,
+    "horizontalOffset": 32,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 1,
+    "totalWidth": 960
+  },
+  "name": "Home - Tablet Landscape",
+  "nameIsFixed": false,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 768,
+    "name": "Tablet",
+    "offersLandscapeVariant": 1,
+    "width": 1024
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "userInfo": {
+    "io.magicsketch.mirror": {
+      "highestQuality": 2,
+      "included": 1,
+      "linkedLayers": [
+        "E64EFA8F-0303-4EF1-B683-362D8E73A945"
+      ]
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

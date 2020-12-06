@@ -1,0 +1,140 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2E3FC847-023A-46D2-A912-20A81A6E0C28",
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 2466,
+    "width": 1024,
+    "x": -1453,
+    "y": 210
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 8,
+    "isEnabled": false,
+    "thickGridTimes": 8
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      48,
+      512,
+      496,
+      528,
+      976,
+      896,
+      128
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "FEE186CF-8CCC-4D1E-AFE0-3ED92F4E6A94"
+    },
+    {
+      "class": "text",
+      "id": "B1DB8A3B-5156-4F07-9F31-331904D9C7DC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1ED228BE-60B8-4343-AA32-74660DF3A641"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "39096164-03BB-4DD7-A248-182C306129F4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "83D3466F-5028-4D79-8276-BDFE9EFCD69B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D4568EB1-7851-4E23-B60B-7656E830C1F6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "33154008-CB02-45F9-9BF9-9F93C8FFFC4A"
+    },
+    {
+      "class": "group",
+      "id": "37C9B003-EB4C-405A-8008-62D01B6FBB33"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "70F230F2-E389-41E4-90DB-7694171D9CBA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DFFADCB5-21B6-4E95-8BC9-574985BD2124"
+    },
+    {
+      "class": "group",
+      "id": "63D79919-D206-4720-B90F-0247AD96B153"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 48,
+    "drawHorizontal": true,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 8,
+    "gutterWidth": 32,
+    "guttersOutside": true,
+    "horizontalOffset": 32,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 1,
+    "totalWidth": 960
+  },
+  "name": "Why attend - Tablet Landscape",
+  "nameIsFixed": false,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 768,
+    "name": "Tablet",
+    "offersLandscapeVariant": 1,
+    "width": 1024
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "userInfo": {
+    "io.magicsketch.mirror": {
+      "highestQuality": 2
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

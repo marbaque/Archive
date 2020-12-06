@@ -1,0 +1,121 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "85CCFB60-E38F-4BBB-BB48-0760FCDD0236",
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1799,
+    "width": 375,
+    "x": 3569,
+    "y": 210
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 8,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      16,
+      176,
+      200,
+      360
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "0F8C6AE6-46F8-44B8-8FED-3C17267786BE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "955D10DA-4D18-4F0D-8879-74D0F389BF97"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "01C132CF-F163-4B42-9D4F-2631B5AFF1B7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7B919F82-E3CA-4906-8805-CD2C80661C2D"
+    },
+    {
+      "class": "group",
+      "id": "BED45792-1458-4B2B-A534-A0CB08FA1CEF"
+    },
+    {
+      "class": "group",
+      "id": "2E51D797-F650-4A38-AFF2-3DDA2686FBCA"
+    },
+    {
+      "class": "group",
+      "id": "F46637EB-40D4-48CE-A2CD-5B6DA4138E02"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 160,
+    "drawHorizontal": true,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 8,
+    "gutterWidth": 24,
+    "guttersOutside": false,
+    "horizontalOffset": 16,
+    "isEnabled": false,
+    "numberOfColumns": 2,
+    "rowHeightMultiplication": 1,
+    "totalWidth": 344
+  },
+  "name": "Keynotes - Mobile Portrait",
+  "nameIsFixed": false,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 667,
+    "name": "iPhone 8",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "userInfo": {
+    "io.magicsketch.mirror": {
+      "highestQuality": 2
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

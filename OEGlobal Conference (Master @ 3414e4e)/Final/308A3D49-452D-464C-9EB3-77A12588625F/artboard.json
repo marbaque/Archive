@@ -1,0 +1,156 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "308A3D49-452D-464C-9EB3-77A12588625F",
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 2330,
+    "width": 1024,
+    "x": -239,
+    "y": 210
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 8,
+    "isEnabled": false,
+    "thickGridTimes": 8
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      48,
+      512,
+      496,
+      528,
+      976,
+      896,
+      128
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "8113AD17-62AA-48B9-9753-362CF4CD7AE5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "32980CE6-20E1-4650-AE89-57B608A97286"
+    },
+    {
+      "class": "group",
+      "id": "3ADD21B0-F84B-4B50-978D-CEA6F431ADA0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C64B95FE-CE5C-4F52-8ECA-418D0F24D811"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6780730D-E0C0-49A3-B315-0479653B0A3D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BA72129D-8A8E-4FDB-BD2C-02E20D56664D"
+    },
+    {
+      "class": "text",
+      "id": "2128271B-BCA2-4D90-B3FF-51A7E2176A38"
+    },
+    {
+      "class": "text",
+      "id": "650252C9-BE68-452C-9890-B7D52DE6C377"
+    },
+    {
+      "class": "text",
+      "id": "A249CCCC-BDB3-4B7B-8A2E-7C0A7A119209"
+    },
+    {
+      "class": "text",
+      "id": "F1C13660-7DC7-4687-ACAD-22F33241F799"
+    },
+    {
+      "class": "text",
+      "id": "77BE12EC-DE41-4818-9DDB-38B7AA35DADC"
+    },
+    {
+      "class": "text",
+      "id": "29469C9A-642A-467E-B081-F2696037CA1B"
+    },
+    {
+      "class": "shapePath",
+      "id": "B798D410-F1A4-4405-AB12-BEC1ED1B0E7C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5BA2337E-1004-4D13-B5BC-A6AA0F594661"
+    },
+    {
+      "class": "group",
+      "id": "C773373D-8041-4B11-ADCF-9A1D06E7D1ED"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 48,
+    "drawHorizontal": true,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 8,
+    "gutterWidth": 32,
+    "guttersOutside": true,
+    "horizontalOffset": 32,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 1,
+    "totalWidth": 960
+  },
+  "name": "Keynotes - Tablet Landscape",
+  "nameIsFixed": false,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 768,
+    "name": "Tablet",
+    "offersLandscapeVariant": 1,
+    "width": 1024
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "userInfo": {
+    "io.magicsketch.mirror": {
+      "highestQuality": 2
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

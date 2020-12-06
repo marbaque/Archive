@@ -1,0 +1,118 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "1A2343E4-9FC9-497A-B2EE-F0A6ACDAA249",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 630,
+    "width": 1200,
+    "x": -601,
+    "y": -315
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "3049C006-6854-4BA7-8DDB-30900442771B"
+    },
+    {
+      "class": "group",
+      "id": "392F21F2-C6F7-4761-88B5-8D4F67918A30"
+    },
+    {
+      "class": "group",
+      "id": "9A48411C-6C8B-47D3-89C4-A57D649B0730"
+    },
+    {
+      "class": "group",
+      "id": "0C2CDDB2-6995-4E45-BCA1-0205F3D24995"
+    },
+    {
+      "class": "group",
+      "id": "D6B277C5-7B62-4E67-8A52-9F41A3365C7E"
+    },
+    {
+      "class": "group",
+      "id": "6B2C5BF3-CA88-4519-B34E-40394AA24AAD"
+    },
+    {
+      "class": "text",
+      "id": "FA1A4AC6-8AD9-4EA5-A189-600959B606A7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8879A48B-392F-48C7-9F83-EBB34FB12E89"
+    }
+  ],
+  "name": "Facebook Open Graph",
+  "nameIsFixed": false,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 630,
+    "name": "Facebook Open Graph",
+    "offersLandscapeVariant": 0,
+    "width": 1200
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "userInfo": {
+    "io.magicsketch.mirror": {
+      "highestQuality": 2
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

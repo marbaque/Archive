@@ -1,0 +1,87 @@
+{
+  "_class": "page",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3859128A-2177-4C76-B05D-4275E6DBE91C",
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -459,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "52CF43DE-4CDA-41E4-8392-B33941DF1301"
+    },
+    {
+      "class": "artboard",
+      "id": "89FFCF16-A040-463D-979D-39D8D031FCF5"
+    },
+    {
+      "class": "artboard",
+      "id": "D9FC8597-1FD0-4FF0-BD18-A0373AB8023A"
+    },
+    {
+      "class": "artboard",
+      "id": "42D932DB-499A-47A1-A63A-515BF89B0CEF"
+    },
+    {
+      "class": "artboard",
+      "id": "4DDF3748-F7BB-49A1-B6B5-7E2B2C88EE98"
+    },
+    {
+      "class": "artboard",
+      "id": "3AAF615F-1D04-4476-9068-094427D6A051"
+    },
+    {
+      "class": "rectangle",
+      "id": "5EE2A67E-E156-42AB-856F-86EFEBD3555A"
+    },
+    {
+      "class": "text",
+      "id": "1424CE9A-3777-4289-B5A7-91C19AB1B715"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 60,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 21.81818181818182,
+    "guttersOutside": false,
+    "horizontalOffset": 240,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 960
+  },
+  "name": "Favicon",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "userInfo": {
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -422,
+    "guides": [
+    ]
+  }
+}

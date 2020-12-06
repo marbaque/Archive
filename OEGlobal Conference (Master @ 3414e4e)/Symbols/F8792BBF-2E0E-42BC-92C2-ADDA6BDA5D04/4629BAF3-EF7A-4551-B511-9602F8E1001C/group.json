@@ -1,0 +1,294 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "4629BAF3-EF7A-4551-B511-9602F8E1001C",
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 200,
+    "width": 591,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "6ECAD943-AEDD-4875-BE64-9D37FCDDC7F4"
+    },
+    {
+      "class": "shapePath",
+      "id": "BACF1263-914C-49C2-B373-A053F78870DA"
+    },
+    {
+      "class": "shapePath",
+      "id": "7075A3B5-693C-4076-9178-2FBB74475007"
+    },
+    {
+      "class": "shapePath",
+      "id": "43C26AAC-3AC7-4E26-8A6A-BCF65EABE8F6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CA2325DD-42FD-4693-BBC2-49F0C561E4FA"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0E235B27-EEDF-4BE4-8165-50F3FC393881"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "38E44B77-8BF8-4F69-922F-EA10BD7E2F9D"
+    },
+    {
+      "class": "shapePath",
+      "id": "A3ACD30A-375D-4FE1-9D9F-652C0FB7253C"
+    },
+    {
+      "class": "shapePath",
+      "id": "02C89BE5-AF9E-494F-A07A-B1D06A87A640"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0ED8A242-A5BD-413F-9ADA-0990B7F47CE6"
+    },
+    {
+      "class": "shapePath",
+      "id": "C8DD5A2A-6261-4ADF-8B94-C4605849D7C9"
+    },
+    {
+      "class": "shapePath",
+      "id": "3BB43918-6DBF-47D1-932D-759DB9F75178"
+    },
+    {
+      "class": "shapePath",
+      "id": "C75CD907-D5F8-470B-A1A5-7CA806B36E7F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CE63A880-251E-4A4A-AC77-764EC97F3CA6"
+    },
+    {
+      "class": "shapePath",
+      "id": "9187C0E9-E1D9-47B1-963A-72EDF0A737A7"
+    },
+    {
+      "class": "shapePath",
+      "id": "109C6F7D-FDDA-4350-B6BD-0598D928D4F5"
+    },
+    {
+      "class": "shapePath",
+      "id": "384A0FD9-85DB-4419-8227-D5C4319CCA65"
+    },
+    {
+      "class": "shapePath",
+      "id": "CCFD4728-A01B-40BE-8985-D98A5D5D18A5"
+    },
+    {
+      "class": "shapePath",
+      "id": "ABEEDEB4-6EA6-4A9E-9E3F-6706226C10E6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "54605BB2-668E-4A0E-B481-F0A2436EDD51"
+    },
+    {
+      "class": "shapePath",
+      "id": "ECBF7851-91E7-4CB2-A915-392C3C44C6AD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2094663B-25BC-4E17-A9A5-31E07EEEC376"
+    },
+    {
+      "class": "shapePath",
+      "id": "6EBF4C89-8B65-4BE3-B0F9-45B82311A905"
+    },
+    {
+      "class": "shapePath",
+      "id": "A974DED0-2636-4FD7-AFDF-F39799299D45"
+    },
+    {
+      "class": "shapePath",
+      "id": "6CF55CA2-0DAC-4B45-AB93-3FF67B5DB359"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C0A38B7C-688A-402E-ABC2-9375AB090171"
+    },
+    {
+      "class": "shapePath",
+      "id": "3C003C62-E59A-4633-8428-BCBD331E618E"
+    },
+    {
+      "class": "shapePath",
+      "id": "0A261411-D06D-4056-B11A-13FEBDD3DD3B"
+    },
+    {
+      "class": "shapePath",
+      "id": "4FDF31A7-15E6-4369-9360-2D019B3B79E7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F2E015CD-8731-402C-BC86-AA0FBC613CF2"
+    },
+    {
+      "class": "shapePath",
+      "id": "BE6911ED-ADEB-470D-875B-B450DA46340A"
+    },
+    {
+      "class": "shapePath",
+      "id": "59242EE5-A4DB-45EA-8D5E-0D4C74FB075A"
+    },
+    {
+      "class": "shapePath",
+      "id": "45A478CB-0DA8-49E9-B623-B26A816DA31E"
+    },
+    {
+      "class": "shapePath",
+      "id": "18251797-BE7C-4326-9C23-765709529CD8"
+    },
+    {
+      "class": "shapePath",
+      "id": "849B1488-21B9-4934-B3E4-4C031992E92C"
+    },
+    {
+      "class": "shapePath",
+      "id": "6A37BC02-0632-4FD9-82D7-A1A4708576A2"
+    },
+    {
+      "class": "shapePath",
+      "id": "7F3E4D88-D88F-4853-9DD2-C2E7EE1532DD"
+    },
+    {
+      "class": "shapePath",
+      "id": "03C10F5D-9FAB-47B0-B652-47587A7CF41D"
+    },
+    {
+      "class": "shapePath",
+      "id": "219431DC-341A-4068-82D1-BC3A43B343A6"
+    },
+    {
+      "class": "shapePath",
+      "id": "579577CF-F8A6-4345-A946-6F0A3B976DC7"
+    },
+    {
+      "class": "shapePath",
+      "id": "7E4C7B34-6940-4B4C-ACCE-C879A32AC47C"
+    },
+    {
+      "class": "shapePath",
+      "id": "E108D15B-E4A4-4117-9E34-AFFB59AA6C07"
+    },
+    {
+      "class": "shapePath",
+      "id": "A8C64CCE-9205-4190-80A8-B179B2F04076"
+    },
+    {
+      "class": "shapePath",
+      "id": "3AECB119-BBE9-4CDD-BF79-59F1102463B1"
+    },
+    {
+      "class": "shapePath",
+      "id": "86D1F138-C001-46B8-A056-4FEC0F38EB4C"
+    },
+    {
+      "class": "shapePath",
+      "id": "CD08C8BD-16AB-4DBB-B10D-8E8026DD3EFD"
+    },
+    {
+      "class": "shapePath",
+      "id": "467642B7-3242-4FE7-A5D1-4EB57F3DB3D5"
+    },
+    {
+      "class": "shapePath",
+      "id": "7D98C76D-3EEF-4A9C-AB45-8F030519AB93"
+    },
+    {
+      "class": "shapePath",
+      "id": "2EF3EA2C-044B-4BF3-9B4B-3A1FC3475C08"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A5A667CD-E569-4757-B3E6-C466E84C204B"
+    },
+    {
+      "class": "shapePath",
+      "id": "0A7A986F-291B-42B3-9F30-A0CAA838E822"
+    },
+    {
+      "class": "shapePath",
+      "id": "C4D5ABE4-DBCA-4A19-82BC-A482103AD162"
+    },
+    {
+      "class": "shapePath",
+      "id": "755E9D30-9B41-4CF2-AF54-18F63BF5EE6E"
+    },
+    {
+      "class": "shapePath",
+      "id": "21DB02E1-6385-4177-8207-23F333EA6A4D"
+    }
+  ],
+  "name": "logo oeg19",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "134C798A-8DE0-4B35-BFF4-D425C5064652",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
